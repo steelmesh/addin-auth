@@ -1,0 +1,30 @@
+{
+    "name": "steelmesh-auth",
+    "description": "Authentication addin for Steelmesh",
+    "author": "Damon Oehlman <damon.oehlman@sidelab.com>",
+    "tags": ["steelmesh", "auth", "authentication"],
+    "version": "0.0.1",
+    
+    "main": "index.js",
+    "engines": { "node": "0.4.x" },
+        
+    "dependencies": {
+        "everyauth": "0.2.x"
+    },
+    
+    "devDependencies": {
+        "vows": "0.5.x"
+    },
+    
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/steelmesh/steelmesh-auth.git"
+    },
+    
+    "bugs": {
+        "web": "http://github.com/steelmesh/steelmesh-auth/issues"
+    },
+    
+    "contributors": [
+    ]
+}
