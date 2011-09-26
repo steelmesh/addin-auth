@@ -9,7 +9,7 @@
     "engines": { "node": "0.4.x" },
         
     "dependencies": {
-        "everyauth": "0.2.x"
+        "everyauth": "https://github.com/steelmesh/everyauth/tarball/master"
     },
     
     "devDependencies": {
