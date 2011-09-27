@@ -38,6 +38,9 @@ exports.install = function(mesh, instance) {
     
     // add the everyauth helpers
     everyauth.helpExpress(instance);
+    
+    // check the design doc for this addin
+    this.loadDesigns(mesh, __dirname);
 };
 
-exports.prereqs = ['sessions'];
+exports.prereqs = ['couch', 'sessions'];

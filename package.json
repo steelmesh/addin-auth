@@ -3,7 +3,7 @@
     "description": "Authentication addin for Steelmesh",
     "author": "Damon Oehlman <damon.oehlman@sidelab.com>",
     "tags": ["steelmesh", "auth", "authentication"],
-    "version": "0.0.1",
+    "version": "0.0.2",
     
     "main": "index.js",
     "engines": { "node": "0.4.x" },
