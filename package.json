@@ -18,11 +18,11 @@
     
     "repository": {
         "type": "git",
-        "url": "http://github.com/steelmesh/steelmesh-auth.git"
+        "url": "http://github.com/steelmesh/addin-auth.git"
     },
     
     "bugs": {
-        "web": "http://github.com/steelmesh/steelmesh-auth/issues"
+        "web": "http://github.com/steelmesh/addin-auth/issues"
     },
     
     "contributors": [
